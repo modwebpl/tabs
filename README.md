@@ -1,5 +1,5 @@
 # tabs
-opening contentBox by tabs
+opening contentBox by clicking the tabs
 
 
 * require babel
